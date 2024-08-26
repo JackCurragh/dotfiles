@@ -142,7 +142,6 @@ POWERLEVEL10K_LEFT_PROMPT_ELEMENTS=(anaconda ...ENVS)
 export PATH="$PATH:/home/jack/Downloads/Tools/sratoolkit.3.0.0-ubuntu64/bin"
 alias zel="bash <(curl -L zellij.dev/launch)"
 
-export TOWER_ACCESS_TOKEN="eyJ0aWQiOiA3MjczfS40ZTcyMDA2ZGM0MWExNjA1YjBlNDJhZmY0M2JjYzRmNTA4ODIyZWVj"
 
 # added by travis gem
 [ ! -s /home/jack/.travis/travis.sh ] || source /home/jack/.travis/travis.sh
