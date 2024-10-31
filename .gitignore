@@ -1,0 +1,5 @@
+.zshrc.local
+.zshrc.server
+.secrets
+*~
+.DS_Store
